@@ -94,8 +94,8 @@ TASK-MANAGER/
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/AJeshwanth/task-scheduler.git
-cd task-scheduler
+git clone https://github.com/AJeshwanth/TASK-SCHEDULER.git
+cd TASK-SCHEDULER
 ```
 
 ---
