@@ -82,7 +82,6 @@ TASK-MANAGER/
 │
 ├── frontend/
 │   ├── src/
-│   ├── components/
 │   └── pages/
 │
 └── README.md
@@ -92,7 +91,7 @@ TASK-MANAGER/
 
 ##  Installation & Setup
 
-###  Clone the repository
+### 1️⃣ Clone the repository
 
 ```
 git clone https://github.com/AJeshwanth/task-scheduler.git
@@ -113,7 +112,6 @@ Create `.env` file:
 ```
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
 ```
 
 Run backend:
@@ -154,7 +152,7 @@ npm run dev
 
 ---
 
-## 🎯 Key Highlights
+##  Key Highlights
 
 * Clean and scalable folder structure
 * Secure authentication using JWT
